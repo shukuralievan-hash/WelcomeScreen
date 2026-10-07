@@ -1,0 +1,8 @@
+name = input('Best friends:')
+
+
+
+
+
+
+
